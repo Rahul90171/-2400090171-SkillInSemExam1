@@ -1,3 +1,0 @@
-React link https://submittable-uni.vercel.app
-git hub link https://github.com/Rahul90171
-git hub repositories link https://github.com/Rahul90171/submittable-uni.git
